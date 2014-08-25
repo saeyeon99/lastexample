@@ -1,4 +1,4 @@
-application: sparklingsaeyeon
+application: sohyeonflask01
 version: v1
 runtime: python27
 api_version: 1
